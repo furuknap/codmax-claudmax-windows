@@ -156,6 +156,14 @@ Then update the version number in `claudmax.bat` if needed, and re-apply the PII
 
 ---
 
+## Credits
+
+Built by [Bjorn Furuknap](https://furuknap.net/) with [Claude](https://claude.ai) (Anthropic).
+
+MIT License — see [LICENSE](LICENSE).
+
+---
+
 ## References
 
 - [MiniMax Codex CLI docs](https://platform.minimax.io/docs/token-plan/codex-cli)
